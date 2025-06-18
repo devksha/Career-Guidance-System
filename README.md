@@ -68,15 +68,8 @@ For WAMP, typically C:\wamp\www\
 
 Create the database:
 
-Run the script create_database.php by navigating to it in your browser:
+Run the script create_database.php by navigating to it in your browser
 
-http://localhost/Career-Guidance-System/create_database.php
-This will initialize the SQLite database (careerguide.db).
-
-Access the application:
-
-Open your browser and go to:
-http://localhost/Career-Guidance-System/index.html
 
 Usage
 Use the home page to start exploring career options.
