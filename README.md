@@ -1,8 +1,6 @@
 # Career Guidance System
 
-A web-based application designed to help users explore career options, receive personalized guidance, and interact with a chatbot for career-related queries.
-
-## Features
+Career Guidance System is a comprehensive web-based platform aimed at empowering students, job seekers, and professionals to make informed career decisions. The system offers a rich, interactive experience by combining personalized career recommendations based on individual profiles with an AI-powered chatbot to answer career-related questions instantly.
 
 - **Personalized Career Guidance:** Tailored career suggestions based on user inputs.
 - **Interactive Chatbot:** Instant answers and career advice via chatbot interface.
