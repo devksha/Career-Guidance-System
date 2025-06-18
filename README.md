@@ -8,39 +8,6 @@ Career Guidance System is a comprehensive web-based platform aimed at empowering
 - **Responsive and Modern UI:** Clean design using SCSS and CSS.
 - **Multi-page Application:** Includes homepage, personalized guidance, chatbot, and database creation scripts.
 
-
-## Project Structure
-
-Career-Guidance-System/
-│
-├── assets/
-│ └── hero.png # Hero image used on UI
-│
-├── css/
-│ ├── chatbot.css # Styles for chatbot
-│ └── main.css # Main stylesheet
-│
-├── scss/
-│ ├── _careers.scss
-│ ├── _configure.scss
-│ ├── _footer.scss
-│ ├── _header.scss
-│ ├── _hero.scss
-│ ├── _personalized.scss
-│ ├── _variables.scss
-│ ├── main.css # Compiled CSS from SCSS
-│ └── main.css.map # Source map for CSS
-│
-├── chatbot.js # Front-end chatbot logic (JavaScript)
-├── chatbot.php # Back-end chatbot logic (PHP)
-├── create_database.php # Script to create & initialize SQLite DB
-├── careerguide.db # SQLite database file
-├── index.html # Main landing page
-├── main.js # Main JavaScript file
-├── personalized.html # Personalized guidance page (HTML)
-└── personalized.php # Personalized guidance page (PHP)
-
-
 ## Technologies Used
 
 - **Frontend:** HTML5, CSS3, SCSS, JavaScript
